@@ -1,6 +1,6 @@
 <p>
-  <img src="RFID/images/lock.png">
+  <img src="RFID-door-lock-system/RFID/images/lock.png">
 </p>
 <p>
-  <img src="RFID/images/lock.png">
+  <img src="RFID-door-lock-system/RFID/images/lock.png">
 </p>
