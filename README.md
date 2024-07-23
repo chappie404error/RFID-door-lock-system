@@ -1,8 +1,10 @@
 # RFID-door-lock-system
-Ardunio RFID door lock project
+# Ardunio RFID door lock project
 <p>
   <img width=60% src="circuit and images/ckt.jpg" >
 </p>
+
+# 3D models
 <p>
   <img width=60% src="RFID/images/lock.png" >
 </p>
