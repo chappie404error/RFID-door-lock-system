@@ -6,3 +6,7 @@ Ardunio RFID door lock project
 <p>
   <img width=60% src="RFID/images/lock.png" >
 </p>
+
+<p>
+  <img width=60% src="RFID/images/servo.png" >
+</p>
